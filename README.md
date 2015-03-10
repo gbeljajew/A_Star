@@ -13,8 +13,11 @@ second - Start will start demonstration.
 
 on the map: 
 white squares - empty
+
 black - wall
+
 yellow circle (damn hard to see) - start point
+
 red circle - endpoint 
 
 after Start there will be:
