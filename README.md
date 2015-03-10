@@ -21,9 +21,13 @@ yellow circle (damn hard to see) - start point
 red circle - endpoint 
 
 after Start there will be:
+
 green squares - tiles, that are in open list
+
 blue - in close list
+
 pink - path
+
 linies are directed to parent.
 
 
